@@ -8,4 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-input_to_index
+def input_to_index
+  puts '5'.to_i 
+end 
