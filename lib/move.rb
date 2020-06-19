@@ -8,6 +8,4 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index (number)
-  puts ("#{number}")
-end
+#input_to_index
